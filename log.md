@@ -15,3 +15,11 @@
 **Thoughts:** I'm happy that it's done. I need to focus on getting the setup for the med app.
 
 ~~**Link to work:** [Calculator App]~~
+
+### Day 3: July 10, 2019
+
+**Today's Progress**: Today I dedicated this time to investigation of some web optimizations using ImageMagick for images. It's really interesting match all the results.
+
+**Thoughts:** I need to finish the tech plan tomorrow, also I need to focus on getting the setup for the med app and some tasks for the backlog.
+
+~~**Link to work:** tomorrow~~
