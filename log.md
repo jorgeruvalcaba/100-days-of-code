@@ -22,4 +22,8 @@
 
 **Thoughts:** I need to finish the tech plan tomorrow, also I need to focus on getting the setup for the med app and some tasks for the backlog.
 
-~~**Link to work:** tomorrow~~
+### Day 4: July 15, 2019
+
+**Today's Progress**: Today I started building the base for the medico app, the new app for medical notes. I chose Next.js so I can learn how to use it and one of its advantages is that it support server side rendering which I could need at some point in this project.
+
+**Thoughts:** I need to learn about good practices when setting new projects so I can define a good structure in the project and allow scalability if needed.
